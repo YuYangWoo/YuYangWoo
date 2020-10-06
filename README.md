@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  ## 프로필
- ***
+-------
 
 - 🔭 현재 가천대학교 3학년 2학기 재학 중
 - 🌱 안드로이드 개발♥
