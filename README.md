@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##현재 상황
+
+#2020.06~
 - 🔭 현재 가천대학교 3학년 2학기 재학 중
 - 🌱 안드로이드 개발♥
 - 👯 토이 프로젝트♥♥ 자바 - To-do-List
