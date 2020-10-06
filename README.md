@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👯 토이 프로젝트♥♥ 자바 - To-do-List
 - 🤔 1인 프로젝트♥♥ 안드로이드 - 스톤에이지 백과사전 출시
 - 😄 팀 프로젝트♥♥ 안드로이드- 다빈치코드 보드게임 개발, Visual Memory Test게임 개발,  출입탐지시스템 개발 中
-#https://img.shields.io/badge/github-GIVEME--STAR-red
+![JAVA badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
