@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:relieved:
+##현재 상황
+- 🔭 현재 가천대학교 3학년 2학기 재학 중
+- 🌱 안드로이드 개발♥
+- 👯 토이 프로젝트♥♥ 자바 - To-do-List
+- 🤔 1인 프로젝트♥♥ 안드로이드 - 스톤에이지 백과사전 출시
+- 😄 팀 프로젝트♥♥ 안드로이드- 다빈치코드 보드게임 개발, Visual Memory Test게임 개발,  출입탐지시스템 개발 中
