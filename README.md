@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 현재 가천대학교 4학년 1학기 재학 중
 - 🌱 안드로이드 개발♥
-- 👯 토이 프로젝트♥♥ 자바 - To-do-List
+- 👯 토이 프로젝트♥♥ 자바 - To-do-List, Coupon App, 출퇴근 어플리케이션, FLO APP
 - 🤔 1인 프로젝트♥♥ 안드로이드 - 스톤에이지 백과사전 출시
 - 😄 팀 프로젝트♥♥ 안드로이드- 다빈치코드 보드게임 개발,  
 　　　　　　　　　　　　　　　　Visual Memory Test게임 개발,  
