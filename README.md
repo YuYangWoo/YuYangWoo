@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 포트폴리오 - https://yuyangwoo.github.io/Portfolio/
 
-- 🔭 현재 가천대학교 4학년 1학기 재학 중
+- 🔭 현재 가천대학교 4학년 2학기 재학 중
 - 🌱 안드로이드 개발♥
 - 👯 토이 프로젝트♥♥ 자바 - To-do-List, Coupon App, 출퇴근 어플리케이션, FLO APP
 - 🤔 1인 프로젝트♥♥ 안드로이드 - 스톤에이지 백과사전 출시
