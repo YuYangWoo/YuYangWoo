@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  # 프로필
 
 포트폴리오  - https://blush-quiver-478.notion.site/5c2352c31c1d4323b68003827b98e74d
+
 앱 시연 동영상 - https://yuyangwoo.github.io/Portfolio/
 
 - 🔭 현재 가천대학교 4학년 2학기 재학 중
