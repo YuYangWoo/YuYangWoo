@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 　　　　　　　　　　　　　　　　와일드리프트 백과사전 제작완료개발 ,  
 　　　　　　　　　　　　　　　　코로나로 인한 사회적 거리두기 행동지침 프로젝트 개발,  
 　　　　　　　　　　　　　　　　가천대학교 열람실 좌석 관리 어플리케이션 제작,
-                              KB국민은행 소프트웨어 경진대회 Cupping 
+　　　　　　　　　　　　　　　　KB국민은행 소프트웨어 경진대회 Cupping 
